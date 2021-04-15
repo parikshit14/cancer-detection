@@ -32,4 +32,4 @@ pre = clf.predict(x_test)
 
 acc = accuracy_score(pre, y_test)
 print(pre)
-# print(acc)
+print(acc)
